@@ -4,7 +4,7 @@ Reproduces issue in https://github.com/helm/helm/issues/31570
 ## Steps
 
 ### Step 1 - Download working and broken versions of helm (added to repo as a backup)
-Install version 3.19.2 from https://github.com/helm/helm/releases
+Install versions 3.19.2 and 3.18.4 from https://github.com/helm/helm/releases
 
 ```
 wget https://get.helm.sh/helm-v3.19.2-linux-amd64.tar.gz  # skip if using tar.gz from this repo
